@@ -507,6 +507,21 @@ main{
     font-size: 12px;
 }
 
+.feature-img:hover{
+    color: #555;
+    text-decoration: none;
+}
+
+.feature-img2:hover{
+    color: #555;
+    text-decoration: none;
+}
+
+.feature-img3:hover{
+    color: #555;
+    text-decoration: none;
+}
+
 /* Owl */
 
 .owl-dots .owl-dot{
